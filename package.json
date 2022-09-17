@@ -1,7 +1,7 @@
 {
     "name": "client",
     "version": "0.1.0",
-    "homepage" : "http://aasim-syed.github.io/fassal_omdb_assignment",
+    "homepage" : "http://aasim-syed.github.io/fas-frontend",
     "private": true,
     "dependencies": {
       "antd": "^3.24.1",
